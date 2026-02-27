@@ -1,7 +1,7 @@
 (function () {
   window.VWO_FME_CONFIG = {
-    accountId: 914440,
-    sdkKey: '98e5027324b9cebcc9263a80a8851cab',
-    flagKey: 'promoBanner12'
+    accountId: 851255,
+    sdkKey: 'e0e95e12b097c2eb03ebcfadb62bb529',
+    flagKey: 'demoApp'
   };
 })();
